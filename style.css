@@ -155,4 +155,32 @@
     background-color: #2196f3;
     color: #ffffff;
   }
-}
+  .calculator button.btn-equal {
+    background-color: #ff9800;
+    color: #ffffff;
+  }
+  
+  /* dark theme */
+  .calculator.dark {
+    background-color: #1e1e1e;
+  }
+  .calculator.dark #display {
+    color: #e0e0e0;
+  }
+  .calculator.dark button#clear {
+    background-color: #e74c3c;
+    color: #ffffff;
+  }
+  .calculator.dark button.btn-number {
+    background-color: #27ae60;
+    color: #ffffff;
+  }
+  .calculator.dark button.btn-operator {
+    background-color: #2980b9;
+    color: #ffffff;
+  }
+  .calculator.dark button.btn-equal {
+    background-color: #f39c12;
+    color: #ffffff;
+  }
+  
