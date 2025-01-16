@@ -7,12 +7,7 @@ A vibrant and dynamic calculator with dark and light mode functionality. Built u
 - **Responsive Design**: Works well on both desktop and mobile devices.
 - **Colorful UI**: Enjoy a lively and modern interface with smooth transitions.
 
-## Project Structure
-- `index.html`: The structure and layout of the calculator.
-- `style.css`: The styling for the light and dark themes, as well as the layout.
-- `script.js`: JavaScript logic for handling button clicks, operations, and theme switching.
-
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ColorSwitch-Calc.git
+Technologies Used
+HTML
+CSS
+JavaScript
